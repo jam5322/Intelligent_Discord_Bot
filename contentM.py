@@ -1,0 +1,37 @@
+Greetings = ["hey", "Hey", "HEY", "hi", "Hi", "HI", "hello", "Hello", "HELLO", "yo", "Yo", "YO", "what's up",
+             "Hi there", "Howdy", "Greetings", "Hey, What’s up?", "Morning/afternoon/evening", "What’s going on?",
+             "How’s everything?", "How are things?", "Good to see you", "Great to see you", "Nice to see you",
+             "What’s happening?", "How’s it going?", "Good evening", "How are you?", "Nice to meet you!",
+             "Long time no see",
+             "What’s the good word?", "What’s new?", "Look who it is!", "How have you been?", "Nice to see you again.",
+             "Greetings and salutations!", "How are you doing today?", "What have you been up to?",
+             "How are you feeling today?",
+             "Look what the cat dragged in!", "Good afternoon, sir, how are you today?"]
+
+Known_Friends = {
+    "83990735367442432": "Chres",
+    "376060560153903104": "Jonah",
+    "104357580515581952": "Justin",
+    "217446277728698378": "'The' Nick (Salty)",
+    "217460197205999617": "Ben",
+    "319181218652356609": "John",
+    "99352500963934208": "Reece",
+    "255026674062721024": "Ethan",
+    "193206952585723904": "Lorenzo",
+    "209521250475704324": "Dalton",
+    "189587397179080706": "Calvin",
+    "163722420203683840": "Cameron",
+    "691856016333078540": "VisionBot",
+    "189176416737296384": "Mallory",
+    "291006590818189322": "'Other' Nick (Chunky Monkey)",
+    "171481267534168064": "Rizzo",
+    "263310168723423232": "Nathaniel",
+    "182594603034083339": "Manuel",
+    "83068774038634496": "Robbicus Totalus",
+    "217493266592038913": "Joe",
+    "325088307702923265": "Teddy",
+    "433720575513329674": "BEAN",
+    "316274049221394433": "Aidan",
+    "319133739613421570": "Jason"
+
+}
